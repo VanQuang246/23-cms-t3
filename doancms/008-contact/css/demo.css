@@ -1,0 +1,91 @@
+footer .partner-icon {
+  padding: 55px 0;
+}
+footer .partner-icon h3.partner {
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 700;
+  color: #999999;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border-bottom: 3px solid #E0E0E0;
+  width: 50px;
+}
+footer .partner-icon .logo img {
+  height: 60px;
+  opacity: 0.5;
+}
+footer .ser {
+  background: black;
+  padding: 6px;
+  margin: 20px 0;
+}
+footer .ser .planee {
+  text-align: center;
+}
+footer .ser .planee .plane {
+  display: inline-flex;
+}
+footer .ser .planee .plane .picplane {
+  margin: 15px;
+}
+footer .ser .planee h3 {
+  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #ffffff;
+  font-style: normal;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+footer .folow .clo-3 {
+  margin-top: 38px;
+}
+footer .folow .clo-3 .button-ser {
+  margin-top: 24px;
+}
+footer .folow .clo-3 .button-ser button.sub {
+  margin-top: 2px;
+  color: #757575;
+  padding: 0 25px;
+}
+footer .folow .clo-3 .button-ser button.sub:hover {
+  color: #fff;
+}
+footer .folow .kallyas {
+  margin-top: 38px;
+}
+footer .folow .kallyas i.fa {
+  padding-right: 20px;
+  font-size: 22px;
+  margin-top: 22px;
+  padding-left: 10px;
+}
+footer .folow .mail {
+  background: #222;
+  border-color: #373737;
+  text-transform: uppercase;
+  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  height: 44px;
+  border-radius: 5px;
+  color: white;
+}
+footer .folow .sub {
+  background: #222;
+  border-color: #373737;
+  text-transform: uppercase;
+  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  height: 44px;
+  border-radius: 5px;
+  color: white;
+}
+footer .slogan center {
+  margin-top: 68px;
+  color: #454545;
+  font-size: 13px;
+}
